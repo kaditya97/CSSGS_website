@@ -351,7 +351,7 @@
           <div class="contact-phone">
             <i class="ion-ios-telephone-outline"></i>
             <h3>Phone Number</h3>
-            <p><a href="tel:+9779864488366" style="text-decoration:none">+9779864488366</a></p>
+            <p><a href="tel:+977061440457" style="text-decoration:none">+977061440457</a></p>
           </div>
         </div>
 
@@ -359,7 +359,7 @@
           <div class="contact-email">
             <i class="ion-ios-email-outline"></i>
             <h3>Email</h3>
-            <p><a href="mailto:info@example.com" style="text-decoration:none">info@example.com</a></p>
+            <p><a href="mailto:cssgs@wrc.edu.np" style="text-decoration:none">cssgs@wrc.edu.np</a></p>
           </div>
         </div>
 
