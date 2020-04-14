@@ -96,8 +96,8 @@ include "connect.php";
       <section id="topbar" class="d-none d-lg-block">
         <div class="container clearfix">
           <div class="contact-info float-left">
-            <i class="fa fa-envelope-o"></i> <a href="mailto:skshitizraj@gmail.com">skshitizraj@gmail.com</a>
-            <i class="fa fa-phone"></i> +9779864488366
+            <i class="fa fa-envelope-o"></i> <a href="mailto:cssgs@wrc.edu.np">cssgs@wrc.edu.np</a>
+            <i class="fa fa-phone"></i> +977061440457
           </div>
           <div class="social-links float-right">
             <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>

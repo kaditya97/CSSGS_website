@@ -13,7 +13,7 @@
             Licensing information: https://bootstrapmade.com/license/
             Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Reveal
           -->
-      Designed by <a href="https://www.facebook.com/sharma.kshitizraj" style="text-decoration:none">Kshitij Raj Sharma</a>
+      Designed by <a href="https://www.facebook.com/wrc.cssgs" style="text-decoration:none">CSSGS Team</a>
     </div>
 
   </div>
